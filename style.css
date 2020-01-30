@@ -7,7 +7,7 @@
 body{
 	font-family: arial;
 	color: #333;
-	background-color: #73a3ae;
+	background-color: #fdfdfd;
 }
 
 .header {
@@ -54,7 +54,7 @@ body{
 }
 
 .question {
-	color: #fdfdfd;
+	color: #1461b4;
 	font-size: 3.2em;
 }
 
@@ -74,7 +74,7 @@ body{
 	margin-top: 0.5em;
 }
 .skill h1 {
-	color: #fdfdfd;
+	color: #1461b4;
 	margin-top: 1em;
 }
 
