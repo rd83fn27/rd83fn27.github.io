@@ -17,11 +17,21 @@ body{
 	background-color: #333;
 }
 
+.header p {
+	color: #fdfdfd;
+	float: right;
+}
+
 /*
 .switch {
 	float: right;
 }
 */
+
+.looking-for {
+	float: left;
+	color: #fdfdfd;
+}
 
 .column {
 	float: left;
